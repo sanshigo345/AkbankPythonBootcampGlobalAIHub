@@ -1,0 +1,4 @@
+Harry Potter and the Sorcerer's Stone, J.K. Rowling, 1997, 320
+The Great Gatsby, F. Scott Fitzgerald, 1925, 180
+Pride and Prejudice, Jane Austen, 1813, 279
+book1, book1 yazar, 2020, 200
